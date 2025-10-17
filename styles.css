@@ -22,8 +22,8 @@ body {
 
 /* Header */
 header {
-    margin-bottom: 30px;
-    border-bottom: 1px solid #ccc;
+    margin-bottom: 15px;
+    /* border-bottom: 1px solid #ccc; */
     padding-bottom: 20px;
 }
 
